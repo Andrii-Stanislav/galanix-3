@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/galanix-3/static/css/main.f9050105.chunk.css",
+    "main.js": "/galanix-3/static/js/main.19f9e5c8.chunk.js",
+    "main.js.map": "/galanix-3/static/js/main.19f9e5c8.chunk.js.map",
+    "runtime-main.js": "/galanix-3/static/js/runtime-main.bc03683d.js",
+    "runtime-main.js.map": "/galanix-3/static/js/runtime-main.bc03683d.js.map",
+    "static/js/2.467b9f91.chunk.js": "/galanix-3/static/js/2.467b9f91.chunk.js",
+    "static/js/2.467b9f91.chunk.js.map": "/galanix-3/static/js/2.467b9f91.chunk.js.map",
+    "index.html": "/galanix-3/index.html",
+    "static/css/main.f9050105.chunk.css.map": "/galanix-3/static/css/main.f9050105.chunk.css.map",
+    "static/js/2.467b9f91.chunk.js.LICENSE.txt": "/galanix-3/static/js/2.467b9f91.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc03683d.js",
+    "static/js/2.467b9f91.chunk.js",
+    "static/css/main.f9050105.chunk.css",
+    "static/js/main.19f9e5c8.chunk.js"
+  ]
+}
