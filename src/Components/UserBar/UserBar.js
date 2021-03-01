@@ -10,7 +10,9 @@ export default function UserBar() {
 
   return (
     <div className={styles.container}>
-      <span>{userChoice.length} choicen universities</span>
+      <span>
+        {userChoice.length > 0 ? userChoice.length : 0} choicen universities
+      </span>
     </div>
   );
 }

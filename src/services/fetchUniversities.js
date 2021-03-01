@@ -8,7 +8,10 @@ const fetchUniversities = country => {
     .then(({ data }) => {
       return data;
     })
-    .catch(error => console.log(error));
+    .catch(error => {
+      alert(`Error - ${error}`);
+      return [];
+    });
 };
 
 export default fetchUniversities;
